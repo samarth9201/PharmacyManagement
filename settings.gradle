@@ -1,2 +1,2 @@
+rootProject.name='Pharmacy System'
 include ':app'
-rootProject.name = "PharmacyManagement"
